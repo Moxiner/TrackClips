@@ -2,13 +2,13 @@
 一个简单的批量剪前置帧的 **Adobe Premiere Pro** 插件
 
 
-![Liscense](https://img.shields.io/github/license/Moxiner/YuanShenEx_Launcher)
-![Downloads](https://img.shields.io/github/downloads/Moxiner/YuanShenEx_Launcher/total)
-![Release](https://img.shields.io/github/v/release/Moxiner/YuanShenEx_Launcher)
+![Liscense](https://img.shields.io/github/license/Moxiner/TrackClips)
+![Downloads](https://img.shields.io/github/downloads/Moxiner/TrackClips/total)
+![Release](https://img.shields.io/github/v/release/Moxiner/TrackClips)
 ![super](https://img.shields.io/badge/support--Game--version-Nested-red)
 
 ![Title](./doc/icon/logo.png)
-## TrackClips 是什么🎁 
+## 🎁 TrackClips 是什么 
 ### 这是一个可以批量剪辑去除分镜信息帧的插件
 ![主界面](./doc/image/TrackClips主界面.png)
 
@@ -22,11 +22,11 @@
 
 
 ## 功能演示
-
+![演示视频](./doc/video/演示视频.mp4)
 
 ## 🪛 安装说明
 #### 【Step 1】下载 ```com.moxiner.clips```
-* 请 👉[点击此处](https://github.com/Moxiner/YuanShenEx_Launcher/releases)👈 下载压缩包
+* 请 👉[点击此处](https://github.com/Moxiner/TrackClips/releases)👈 下载 ```TrackClips.zip```
 #### 【Step 2】安装 TrackClips
 * 解压插件包
 * 拷贝 ```com.moxiner.clips``` 文件夹到以下位置:
@@ -38,9 +38,12 @@ Mac : 系统盘/Library（中文叫资源库）/Application Support/Adobe/CEP/ex
 ```
 #### 【Step 3】打开调试模式
 因为我没有把该插件签名打包，使用该插件需要开启调试模式
-* 请 👉[点击此处](https://github.com/Moxiner/YuanShenEx_Launcher/releases)👈 下载调试包
-* Windows：运行一下 ```Add Keys.reg```
-* Mac：运行一下 ```install-as-admin```
+* 请 👉[点击此处](https://github.com/Moxiner/TrackClips/releases)👈 下载 ```Debug.zip```
+
+``` 
+Windows：运行一下 Add Keys.reg
+Mac：运行一下 install-as-admin
+```
 
 #### 【Step 4】完成
 * 在 **Adobe Premiere Pro**主界面 ```窗口 👉 拓展 👉 TrackClips``` 中打开
@@ -71,7 +74,7 @@ Mac : 系统盘/Library（中文叫资源库）/Application Support/Adobe/CEP/ex
 * 本项目仅供参考学习，**莫欣儿** 不会对您使用本项目产生的任何后果负责
 * 本项目为开源项目，项目及其衍生项目不得商用
 * 本项目可以转载，但请联系 **莫欣儿** 授权（无特殊情况一定会授权的！(●ˇ∀ˇ●)）并在明显地方标明由此出处
-* 有什么问题、建议、反馈 ，请提交至 👉[Gitte Issues](https://gitee.com/Morbid-zj/yuanShenEx/issues)👈 \\(≧∇≦)ﾉ
+* 有什么问题、建议、反馈 ，请提交至 👉[GitHub Issues](https://github.com/Moxiner/TrackClips/issues)👈 \\(≧∇≦)ﾉ
 
 ## 🎭 参与开发人员&鸣谢名单
 
