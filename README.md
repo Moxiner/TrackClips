@@ -93,4 +93,4 @@ Mac：运行一下 install-as-admin
 | :-----------:  | :-----------:  | 
 |              [@Moxiner](https://github.com/Moxiner)                    |     [@游戏人生同人制作组](https://space.bilibili.com/3493272810949012?spm_id_from=333.337.search-card.all.click)    |                            
 
-___Copyright © 2024 Moxiner And NGNLFan_Teams(or Moxiner). All Rights Reserved.___
+___Copyright © 2024 Moxiner (or Moxiner) And NGNLFan_Teams. All Rights Reserved.___
