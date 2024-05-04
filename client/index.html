@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Moxiner Clips</title>
+
+</head>
+
+<body>
+    <link rel="stylesheet" href="style.css">
+    <div class="form-text">
+        <!-- 1) Simple HTML UI elements to get us started -->
+        <h1>TicksClips</h1>
+        <hr>
+        <!-- 2) A button -->
+        <p>Step 1：选择1帧的素材，点击获取Tick，并填到选项框里</p>
+        <p>Step 2：选中想裁剪的元素，输入想裁剪几帧，然后开剪</p>
+    </div>
+    <hr>
+
+    <div class="form">
+        <label>Ticks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input type="number" id="tick" value="10584000000" min="1">
+    </div>
+    <div class="form">
+        <label>剪辑帧数</label>
+        <input type="number" id="ticksClips" value="8" min="1">
+    </div>
+    <div class="form">
+        <label>波纹删除</label>
+        <label class="switch">
+            <input type="checkbox" id="trim">
+            <span class="slider"></span>
+        </label>
+    </div>
+    <div class="form">
+        <button id="showtick">读取 Tick</button>
+        <button id="startclips">开剪</button>
+    </div>
+    <div class="form">
+        <p>©CopyRight For 游戏人生同人组&nbsp;&nbsp;&nbsp;&nbsp; By:莫欣儿</p>
+    </div>
+
+
+    <!-- 3) Add your script dependencies here, including CEP's CSInterface.js library -->
+    <script type="text/javascript" src="CSInterface.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+</html>

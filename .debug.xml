@@ -1,0 +1,12 @@
+ <ExtensionList>
+        <!-- 1 -->
+        <Extension Id="com.moxiner.clips">
+           <HostList>
+
+               <!-- 2 -->
+               <Host Name="PPRO" Port="8088"/>
+               <Host Name="PPRO" Port="8088"/>
+
+            </HostList>
+        </Extension>
+    </ExtensionList>    
