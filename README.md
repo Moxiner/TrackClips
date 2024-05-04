@@ -53,6 +53,9 @@ Mac：运行一下 install-as-admin
 * 在 **Adobe Premiere Pro**主界面 ```窗口 👉 拓展 👉 TrackClips``` 中打开
 ## 🎬 使用方法
 
+> [!IMPORTANT]
+> 本插件没有 **撤回功能** ，不熟悉使用时请务必 **备份工程文件**
+
 #### 【Step 1】获取  ```Tick``` 
 * 打开要使用的序列
 * 选中 **1帧** 的素材
