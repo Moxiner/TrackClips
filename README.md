@@ -22,7 +22,8 @@
 
 
 ## 功能演示
-![演示视频](./doc/video/演示视频.mp4)
+https://github.com/Moxiner/TrackClips/assets/87905048/4f9ef61a-5cce-40ed-8ae5-aa396dbfa597
+
 
 ## 🪛 安装说明
 #### 【Step 1】下载 ```com.moxiner.clips```
@@ -30,6 +31,9 @@
 #### 【Step 2】安装 TrackClips
 * 解压插件包
 * 拷贝 ```com.moxiner.clips``` 文件夹到以下位置:
+
+
+
 
 
 ```
