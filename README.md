@@ -12,6 +12,10 @@
 ### 这是一个可以批量剪辑去除分镜信息帧的插件
 ![主界面](./doc/image/TrackClips主界面.png)
 
+<details>
+<summary>背景故事</summary>
+这其实是游戏人生同人组的专属插件，方便后期老师更方便的处理素材，只不过被我公开了，万一有人用的上呢o((>ω< ))o
+</details>
 
 ## 🏆 TrackClips 功能
 ## 功能描述
@@ -85,8 +89,8 @@ Mac：运行一下 install-as-admin
 
 ## 🎭 参与开发人员&鸣谢名单
 
-|  ![Moxiner](./doc/avatar/Moxiner.png)     |  
-| :------------------------------------------------------------------:  | 
-|              [@Moxiner](https://github.com/Moxiner)                    |                                    
+|  ![Moxiner](./doc/avatar/Moxiner.png)     |  ![NGNLFanTeam](./doc/avatar/NGNLFanTeam.png) 
+| :-----------:  | :-----------:  | 
+|              [@Moxiner](https://github.com/Moxiner)                    |     [@游戏人生同人制作组](https://space.bilibili.com/3493272810949012?spm_id_from=333.337.search-card.all.click)    |                            
 
 ___Copyright © 2024 Moxiner And NGNLFan_Teams(or Moxiner). All Rights Reserved.___
