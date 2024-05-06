@@ -5,7 +5,7 @@
 ![Liscense](https://img.shields.io/github/license/Moxiner/TrackClips)
 ![Downloads](https://img.shields.io/github/downloads/Moxiner/TrackClips/total)
 ![Release](https://img.shields.io/github/v/release/Moxiner/TrackClips)
-![super](https://img.shields.io/badge/support--Game--version-Nested-red)
+![super](https://img.shields.io/badge/support--Plugins--version-Nested-red)
 
 ![Title](./doc/icon/logo.png)
 ## 🎁 TrackClips 是什么 
